@@ -1,4 +1,4 @@
-### Hi there 👋 My name is [Rustam Sultanov](https://www.linkedin.com/in/rustamsultanov/ "It's my linkedin"), I'm QA Engineer.
+### Hi there 👋 My name is [Rustam Sultanov](https://www.linkedin.com/in/rustamsultanov/ "It's my linkedin"), I'm QA Engineer from US.
 
 <!--
 **RustamSu/RustamSu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
